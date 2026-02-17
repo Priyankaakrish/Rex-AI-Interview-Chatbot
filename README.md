@@ -1,4 +1,8 @@
 # Rex-AI-Interview-Chatbot
+ Using OpenAI, LangChain, Vertex AI, Firebase, and Google Gemini to develop ReX, an AI coach that serves as a steadfast career companion for learners. ReX provides personalized coaching, mentorship, and support throughout various phases of the career lifecycle, helping 100+ job seekers improve their interview performance by an average of 25% in mock assessments.
+I also developed Quizzify, an agentic AI-based auto-assessment tool as part of an open-source GenAI learning platform, enabling 100+ students to grasp complex academic concepts and boosting engagement by 60%. Additionally, I pioneered a real-time speech-to-text translation feature using Whisper AI, processing 200+ hours of lecture video with 93% accuracy, automatically generating concise course highlights and extracting key sections to improve study efficiency by 70%.
+
+
 
 ## Description
 
